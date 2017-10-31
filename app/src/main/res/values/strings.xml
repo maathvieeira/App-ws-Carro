@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Web Service Carros</string>
+    <string name="enviar_proposta">Enviar Proposta</string>
+    <string name="proposta">Proposta</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+</resources>
